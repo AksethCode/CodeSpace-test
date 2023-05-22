@@ -37,7 +37,7 @@ function Home() {
       <hr className={styles.hr} />
       <div>
         <p>
-          Auto incrementing value. The counter won't reset after edits or if
+           The counter won't reset after edits or if
           there are errors.
         </p>
         <p>Current value: {count}</p>
